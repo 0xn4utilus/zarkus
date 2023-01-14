@@ -1,0 +1,14 @@
+#about{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding: 3em 3em;
+    background-color: #1E1E1E;
+    color: white;
+    font-size: 2vw;
+}
+
+hr {
+    width: 60%;
+}
